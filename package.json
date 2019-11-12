@@ -1,0 +1,8 @@
+{
+  "name": "custom-react",
+  "version": "1.0.0",
+  "description": "react built from scratch",
+  "main": "index.ts",
+  "author": "dangoldbj <dangoldbj23@gmail.com>",
+  "license": "MIT"
+}
